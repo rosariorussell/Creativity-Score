@@ -55,6 +55,7 @@ Data Generator - https://mockaroo.com/ <br/>
 UUID Generator - https://www.uuidgenerator.net/ <br/>
 Hash Generator - https://passwordsgenerator.net/sha256-hash-generator/ <br/>
 Ultimate Code Generator - https://webcode.tools/ <br/>
+JSON Generator - https://extendsclass.com/json-generator.html <br/>
 <div style="text-align:right"> <a href="#top">&#8593; Top</a></div>
 
 <h3 class="section-head" id="h-Section7"><a href="#h-Section7">In-browser coding</a></h3>
